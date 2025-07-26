@@ -16,10 +16,6 @@
 <h2>7 місце</h2>
 <img src="https://learn.logikaschool.com/uploads/student/4619978/687209ee1917d.png" width="100" height="300">
 <h2>Великий мелкі шкєдебе пупсєк. цей скебоб просто ходить за вами i каже що це ваша вина.</h2>
-<h2>6 місце</h2>
-<img src="https://learn.logikaschool.com/uploads/student/4619978/68720e36d1a93.png" width="400" height="300">
-<html>
-<header>
 <h1>Топ 10 найпотужніших тварюк з каналу Doctor Nowhere(ч2)</h1>
 <h2>6 місце</h2>
 <img src="https://learn.logikaschool.com/uploads/student/4619978/68720e36d1a93.png" width="400" height="300">
