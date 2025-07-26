@@ -44,17 +44,6 @@
     <p>"Цей сайт просто жарт"</p>
     <h3>Скебоб</h3>
     <h2>
-    <p> Ц </p>
-    <p> Е </p>
-    <p> р </p>
-    <p> о </p>
-    <p> з </p>
-    <p> р </p>
-    <p> о </p>
-    <p> б </p>
-    <p> н </p>
-    <p> и </p>
-    <p> к </p>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFbtH4sGsXsvDV7UFGjQdMzmZKWIIjh2bUNQ&s" width="300" height="300">
 </footer>
 </header>
